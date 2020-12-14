@@ -8,7 +8,7 @@ function App() {
     let name1="有撒好的ghghghghghghhg"
     let arr= [
         { id: 1, name: "张三", paice: 2, num: 1 },
-        { id: 2, name: "李四", paice: 2, num: 2 },
+        { id: 2, name: "李四", paice: 2, num: 2 },   
         { id: 3, name: "王二", paice: 2, num: 1 },
         { id: 4, name: "麻子", paice: 2, num: 1 }
     ]

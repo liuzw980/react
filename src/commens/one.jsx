@@ -29,7 +29,7 @@ export default class one extends Component {
         if(arr[index].num<=0){
             arr[index].num=0;    
         }else{
-            arr[index].num--;    
+            arr[index].num--;     
         }
         this.setState({
             arr
